@@ -14,7 +14,7 @@ run in terminal 'nodemon app.js'
 
 # work with app
 
-input any date and click `submit` to store the date in mongoDB
+input any date and click `Add Item` to store the date in mongoDB
 
 click on the inputed date to delete a stored data from mongoDB
 
